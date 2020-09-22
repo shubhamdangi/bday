@@ -1272,7 +1272,8 @@ audio {
 	display: none;
 }
 .message p {
-	font-family: 'Kalam', cursive;
+	    font-family: 'Biryani', sans-serif;
+/* 	font-family: 'Kalam', cursive; */
 /* 	font-family: 'Signika', sans-serif; */
 	font-size: 30px;
 	text-transform: uppercase;
